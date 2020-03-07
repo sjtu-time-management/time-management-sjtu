@@ -1,3 +1,3 @@
 This is my first attempt at git.
 I will use it to complete my SoftwareEngineering big project.
-Git is a distributed version control system.
+OK,let's do it!
